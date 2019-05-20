@@ -1,4 +1,4 @@
-# Project 1: DFA Parser and Minimizer
+# DFA Parser and Minimizer
 
 
 ## How to use:
